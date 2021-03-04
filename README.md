@@ -28,7 +28,8 @@ Refer to the following for your presentation:
 Data DictionaryPreview the document
 Lift ChartPreview the document
 DatasetsPreview the document
-Firm InformationPreview the document
+Firm InformationPreview the document###########
+
 Methodology:
 
 Clean and combine the datasets
@@ -36,10 +37,3 @@ Create new variables for sales
 Run a regression model
 Generate a life chart and decile profile
 Create a presentation for your client
-Sample Decks:
-
-For more details on the project and the rubric that will be used for grading, refer to this documentPreview the document. Here are few sample decks on similar topics. These are provided only for your reference. (Feel free to structure your presentation based on your findings and analysis. You are discouraged to copy from the samples and use them as is).
-
-Sample deck 1Preview the document
-
-Sample deck 2Preview the document
